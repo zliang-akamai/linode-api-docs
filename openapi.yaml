@@ -28571,7 +28571,7 @@ components:
                       type: integer
                       description: ID of the interface
                       example: 421
-          x-linode-cli-display: 5
+          x-linode-cli-display: 4
         created:
           type: string
           format: date-time
